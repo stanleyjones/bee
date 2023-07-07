@@ -11,3 +11,5 @@ bee abcdefg
 ```
 
 The first letter is the required one.
+
+The word list is a modified version of `words_alpha.txt` from the [`dwyl/english-words`](https://github.com/dwyl/english-words) repository, which is public domain. It is definitely _not_ the one used by the New York Times and therefore contains many words that will be rejected by the puzzle.
